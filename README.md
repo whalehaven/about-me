@@ -1,2 +1,2 @@
-# about-me
+# Whalehaven
 Biographical Exposé
